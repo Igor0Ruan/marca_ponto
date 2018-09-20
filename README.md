@@ -1,8 +1,3 @@
-# marca_ponto
+# Marca Ponto
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Uma aplicação simples feita em Flutter que realiza a marcação de ponto de uma organização.
