@@ -1,0 +1,7 @@
+##### Ignorando arquivos para o versionamento #####
+
+#Ignorando arquivos de build
+build/
+
+#Ignorando arquivo local de tarefas
+TODO
