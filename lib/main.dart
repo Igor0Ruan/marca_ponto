@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'screens/Splash/SplashScreen.dart';
 
 void main() => runApp(new MarcaPontoApp());
 
@@ -10,13 +11,6 @@ class MarcaPontoApp extends StatefulWidget {
 class _MarcaPontoAppState extends State<MarcaPontoApp> {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: Scaffold(
-        appBar: new AppBar(
-          title: new Text("That's my new app"),
-        ),
-      ),
-    );
+    return MaterialApp(debugShowCheckedModeBanner: false, home: SplashScreen());
   }
 }
