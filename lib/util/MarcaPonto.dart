@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_html_view/flutter_html_view.dart';
 import 'dart:io';
 import 'dart:async';
 
